@@ -28,6 +28,3 @@ The user can also choose to display merged tables and statistics run on preselec
 18.	Select shipments bigger than 100 tones
 19.	Select shipments with cost higher than 100000
 20.	List of ten most expensive shipments
-
-
-
